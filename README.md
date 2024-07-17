@@ -5,11 +5,11 @@
 
 ## About Me..
 
-I have a bachelor's degree in Information and Communication Engineering and am working as a game client programmer. 
-I worked as a programmer for more than three years, launched many games, and am also interested in indie games, so I participated in a game jam and won an award.
-I am planning to participate in BIC.
+I have a bachelor's degree in Information and Communication Engineering and am working as a game client programmer.   
+I worked as a programmer for more than three years, launched many games, and am also interested in indie games, so I participated in a game jam and won an award.  
+I am planning to participate in BIC.  
 
-The genres I mainly participated in were 2D and 3D games such as MMORPGs and platformers.
-In the future, my goal is to participate in games that have survival, crafting, and open world elements.
+The genres I mainly participated in were 2D and 3D games such as MMORPGs and platformers.  
+In the future, my goal is to participate in games that have survival, crafting, and open world elements.  
 
-Currently, my Emily (M12) team and I are planning to exhibit a game called "MeMiMic" at BIC.
+Currently, my Emily (M12) team and I are planning to exhibit a game called "MeMiMic" at BIC.  
