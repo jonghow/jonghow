@@ -39,6 +39,7 @@ Currently, my Emily (M12) team and I are planning to exhibit a game called "MeMi
 
 ## GitHub Stats..
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghow&show_icons=true&theme=radical)
+&nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghow&layout=compact)
 
 
