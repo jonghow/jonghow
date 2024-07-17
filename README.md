@@ -33,7 +33,12 @@ Currently, my Emily (M12) team and I are planning to exhibit a game called "MeMi
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## Study Algorithm Site
+## Study Algorithm Site..
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+## GitHub Stats..
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghow&show_icons=true&theme=radical)
+
+
 
