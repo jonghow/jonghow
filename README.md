@@ -18,3 +18,14 @@ The genres I mainly participated in were 2D and 3D games such as MMORPGs and pla
 In the future, my goal is to participate in games that have survival, crafting, and open world elements.  
 
 Currently, my Emily (M12) team and I are planning to exhibit a game called "MeMiMic" at BIC.  
+
+## My Skills..
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Used Tools..
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
