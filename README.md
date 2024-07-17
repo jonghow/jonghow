@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=30&letterSpacing=1px&duration=3500&pause=1500&color=72EC66&vCenter=true&width=435&lines=Hello%2C+I+am+Jonghow+;I'm+GameClient+Programmer)](https://git.io/typing-svg)
 
-<sjh15348@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](sjh15348@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
