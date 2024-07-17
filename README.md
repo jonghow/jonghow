@@ -17,7 +17,7 @@ I am planning to participate in BIC.
 The genres I mainly participated in were 2D and 3D games such as MMORPGs and platformers.  
 In the future, my goal is to participate in games that have survival, crafting, and open world elements.  
 
-    Currently, my Emily (M12) team and I are planning to exhibit a game called "MeMiMic" at BIC.  
+&nbsp; &nbsp; Currently, my Emily (M12) team and I are planning to exhibit a game called "MeMiMic" at BIC.  
 
 ## My Skills..
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
