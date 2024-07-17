@@ -43,4 +43,4 @@ Currently, my Emily (M12) team and I are planning to exhibit a game called "MeMi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghow&layout=compact)
 
 ## GitHub Trophy..
-[![trophy](https://github-profile-trophy.vercel.app/?username=jonghow&theme=onestar&margin-w=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonghow&theme=onestar&margin-w=1&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
