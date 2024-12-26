@@ -15,7 +15,7 @@ and am also interested in indie games, so I participated in a game jam and won a
 The genres I mainly participated in were 2D and 3D games such as MMORPGs and platformers.  
 In the future, my goal is to participate in games that have survival, crafting, and open world elements.  
 
-&nbsp; &nbsp; Currently, my Emily (M12) team and I are planning to published a game called "MeMiMic".
+&nbsp; &nbsp; Currently, I'm Making a Game Data Conversion Tool And 2D Based Strategy Game.
 
 ## My Skills..
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
